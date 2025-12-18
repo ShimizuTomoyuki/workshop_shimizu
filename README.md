@@ -1,2 +1,4 @@
 # workshop_shimizu
-git練習用
+
+git 練習用
+大森さんワークショップ
